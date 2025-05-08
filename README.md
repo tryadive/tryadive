@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Violla Nayyara, a passionate software developer based in Bandung Barat. I love coding and creating innovative solutions to real-world problems.
+👋 Hi there! I'm Tryadi Arief, a passionate software developer based in Bandung Barat. I love coding and creating innovative solutions to real-world problems.
 
 
 # 💻 Tech Stack:
